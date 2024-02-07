@@ -1,3 +1,9 @@
+---
+noteId: "c76b09c0c5d911ee830fa91d0b64f0bf"
+tags: []
+
+---
+
 # readme
 
 > PATH: YHMD-project/related-info/README.md
